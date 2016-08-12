@@ -6,9 +6,9 @@ color:
   saturation: 0.24999988521449268
   rhythmicContrast: 0.39829166093841195
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#081D6A'
+    - '#D2001A'
+    - '#FFDC00'
+    - '#F8AC00'
+    - '#172863'
 name: Contact

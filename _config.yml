@@ -1,14 +1,14 @@
 layout_spectrum: 0.7816289537586272
-typography_spectrum: 0.003643954871222377
+typography_spectrum: 0.34800406312569976
 color:
-  brandStrength: 0.1263168838340789
-  lightness: 0.6303095330949873
-  saturation: 0.24999988521449268
-  rhythmicContrast: 0.39829166093841195
+  brandStrength: 0.5550280809402466
+  lightness: 0.16391114611178637
+  saturation: 0.44842410599812865
+  rhythmicContrast: 0.8780098378192633
   brandColors:
-    - '#081D6A'
-    - '#D2001A'
-    - '#FFDC00'
-    - '#F8AC00'
-    - '#172863'
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 name: Contact
